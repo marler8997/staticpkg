@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+import sys
+import os
+
+def main():
+    cmd_args = sys.argv[1:]
+    if len(cmd_args) != 1:
+        sys.exit("Usage: make-staticpkg EXE")
+    exe = cmd_args[0]
+
+    
+
+
+main()

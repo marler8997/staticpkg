@@ -1,0 +1,4 @@
+zig-cache/
+zig-out/
+# temporary until we no longer put embeds here
+/*-embed
